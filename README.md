@@ -1,4 +1,4 @@
-# airline1
+# Flight booking system
 Simple Flask project showing Airline Booking system
 
 ![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot.png?raw=true)
