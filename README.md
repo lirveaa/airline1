@@ -25,3 +25,18 @@ Requirements:
 - typing-extensions==4.6.1
 - Werkzeug==2.3.4
 - zipp==3.15.0
+
+# Quick Flask settings:
+Make virtual environment: <br>
+<b> $ python3 -m venv flask_env </b>
+<br> <br>
+install Flask framework: <br>
+<b> $ pip install Flask </b> <br>
+<b> $ pip install Frozen-Flask </b> <br>
+<b> $ pip install Flask_session </b> <br>
+<br> 
+setting environment: <br>
+<b> $ export FLASK_APP=application1.py </b> <br>
+<br> 
+Running app:
+<b> $ flask run </b>
