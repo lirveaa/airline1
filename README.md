@@ -5,7 +5,7 @@ Simple Flask project showing Airline Booking system <br>
 ![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot_1.png?raw=true)
 <br>
 
-<b>Success page<b>
+<b>Success page</b>
 ![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot_2.png?raw=true)
 
 Used tech stack:
