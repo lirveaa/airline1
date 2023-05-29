@@ -1,7 +1,7 @@
 # Flight booking system
 Simple Flask project showing Airline Booking system
 
-![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot.png?raw=true)
+![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot_1.png?raw=true)
 ![alt text](https://github.com/lirveaa/airline1/blob/master/airline_screenshot_2.png?raw=true)
 
 Used tech stack:
